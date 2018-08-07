@@ -1,0 +1,6 @@
+ReadMe:
+
+Upload cat or non cat images into the images folder.
+Change the variable my_image in cat_classifier.py to see if image has a cat or not.
+
+run with: python Cat_classifier.py
