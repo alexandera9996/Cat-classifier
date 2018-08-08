@@ -144,7 +144,7 @@ d = model(train_set_x, train_set_y, test_set_x, test_set_y, num_iterations = 400
 
 costs = np.squeeze(d['costs'])
 
-my_image = "kobe2.jpg" 
+my_image = input("What photo would you like to classify?(filename.extension) ")
 img = my_image  
 
 # We preprocess the image to fit your algorithm.
