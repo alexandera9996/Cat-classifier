@@ -1,0 +1,19 @@
+schema-version: v2.2
+dd-service: cat-classifier
+team: cat
+application: cat-classifier
+tier: "1"
+type: web
+languages:
+  - python
+contacts:
+  - type: email
+    contact: aangelidis12@gmail.com
+links:
+  - name: Source
+    type: repo
+    provider: github
+    url: https://github.com/alexandera9996/Cat-classifier
+tags:
+  - business-unit:ml
+  - cost-center:local
