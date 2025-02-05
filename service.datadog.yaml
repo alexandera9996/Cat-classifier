@@ -1,5 +1,5 @@
 schema-version: v2.2
-dd-service: cat-classifier-v4
+dd-service: cat-classifier-v1
 team: cat
 application: cat-classifier
 tier: "2"
@@ -15,5 +15,5 @@ links:
     provider: github
     url: https://github.com/alexandera9996/Cat-classifier
 tags:
-  - business-unit:ml
+  - office:sf
   - cost-center:local
