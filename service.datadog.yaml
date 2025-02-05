@@ -1,5 +1,5 @@
 schema-version: v2.2
-dd-service: cat-classifier-v2
+dd-service: cat-classifier-v4
 team: cat
 application: cat-classifier
 tier: "2"
