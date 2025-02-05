@@ -2,7 +2,7 @@ schema-version: v2.2
 dd-service: cat-classifier-v2
 team: cat
 application: cat-classifier
-tier: "1"
+tier: "2"
 type: web
 languages:
   - python
