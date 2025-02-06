@@ -1,22 +1,9 @@
 schema-version: v2.2
-dd-service: cat-classifier-v2
-team: cat
-application: cat-classifier
-tier: "2"
+dd-service: dlrcmn
+team: cms
+application: DealerCommon
+tier: "Gold"
 type: web
-languages:
-  - python
-contacts:
-  - type: email
-    contact: aangelidis12@gmail.com
-links:
-  - name: Source
-    type: repo
-    provider: github
-    url: https://github.com/alexandera9996/Cat-classifier
-tags:
-  - office:sf
-  - cost-center:local
 ---
 schema-version: v2.2
 dd-service: animals-service-traced
