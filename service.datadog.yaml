@@ -1,5 +1,5 @@
 schema-version: v2.2
-dd-service: cat-classifier-v1
+dd-service: cat-classifier-v2
 team: cat
 application: cat-classifier
 tier: "2"
@@ -17,3 +17,23 @@ links:
 tags:
   - office:sf
   - cost-center:local
+---
+schema-version: v2.2
+dd-service: animals-service-traced
+team: tps
+application: animals-service-traced
+tier: "1"
+type: web
+languages:
+  - python
+contacts:
+  - type: email
+    contact: aangelidis12@gmail.com
+links:
+  - name: Source
+    type: repo
+    provider: github
+    url: https://github.com/DataDog/tam-workshops/tree/main
+tags:
+  - purpose:tam-everboarding
+  - cost-center:tam
